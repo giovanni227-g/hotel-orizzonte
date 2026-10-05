@@ -1,0 +1,11 @@
+node_modules
+dist
+.media-cache
+.DS_Store
+
+# Variabili d'ambiente e config locali
+.env
+.env.*
+!.env.example
+*.local
+.vercel
